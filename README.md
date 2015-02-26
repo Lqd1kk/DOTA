@@ -11,9 +11,8 @@ Open the file in a text editor, read through and modify the settings to your lik
 
 #Features
 
-Key X Courier Deliver and Burst
-Key  X  Go courier in secret shop
-Key F10 apm_show
-Key F11 Load autoexec
-
-Key ? in binds.cfg quick check top rune
+- Key X Courier Deliver and Burst
+- Key  X  Go courier in secret shop
+- Key F10 apm_show
+- Key F11 Load autoexec
+- Key ? in binds.cfg quick check top rune
