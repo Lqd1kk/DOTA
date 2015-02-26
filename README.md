@@ -9,6 +9,10 @@ Download and copy the autoexec.cfg to
 
 Open the file in a text editor, read through and modify the settings to your liking.
 
+**Optional**:  Run Dota 2 with console enabled, and disable the Valve intro video by adding
+
+>>-console -novid -high -noborder -w 1920 -h 1080 -noforcemaccel -noforcemspd -useforcedparms -language english
+
 #Features
 
 - Key X Courier Deliver and Burst
